@@ -1,0 +1,57 @@
+[
+  {
+    "name" : "약수 구하기",
+    "rank" : "bronze3",
+    "link" : "https://www.acmicpc.net/problem/2501"
+  },
+  {
+    "name" : "이진수",
+    "rank" : "bronze3",
+    "link" : "https://www.acmicpc.net/problem/2226"
+  },
+  {
+    "name" : "최소, 최대",
+    "rank" : "bronze3",
+    "link" : "https://www.acmicpc.net/problem/10818"
+  },
+  {
+    "name" : "지능형 기차 2",
+    "rank" : "bronze3",
+    "link" : "https://www.acmicpc.net/problem/2460"
+  },
+  {
+    "name" : "피보나치 수 5",
+    "rank" : "bronze2",
+    "link" : "https://www.acmicpc.net/problem/10870"
+  },
+  {
+    "name" : "일곱 난쟁이",
+    "rank" : "bronze2",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+  {
+    "name" : "최대공약수와 최소공배수",
+    "rank" : "silver5",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+  {
+    "name" : "N번째 큰 수",
+    "rank" : "silver5",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+  {
+    "name" : "소수 찾기",
+    "rank" : "silver4",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+  {
+    "name" : "쉽게 푸는 문제",
+    "rank" : "silver4",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+  {
+    "name" : "소수",
+    "rank" : "silver4",
+    "link" : "https://www.acmicpc.net/problem/..."
+  },
+]
