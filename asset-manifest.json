@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4173a830.css",
-    "main.js": "/static/js/main.5d204220.js",
-    "static/js/787.7c67f256.chunk.js": "/static/js/787.7c67f256.chunk.js",
-    "index.html": "/index.html",
-    "main.4173a830.css.map": "/static/css/main.4173a830.css.map",
-    "main.5d204220.js.map": "/static/js/main.5d204220.js.map",
-    "787.7c67f256.chunk.js.map": "/static/js/787.7c67f256.chunk.js.map"
+    "main.css": "/sfdsh.github.io/static/css/main.4173a830.css",
+    "main.js": "/sfdsh.github.io/static/js/main.8ab27254.js",
+    "static/js/787.7c67f256.chunk.js": "/sfdsh.github.io/static/js/787.7c67f256.chunk.js",
+    "index.html": "/sfdsh.github.io/index.html",
+    "main.4173a830.css.map": "/sfdsh.github.io/static/css/main.4173a830.css.map",
+    "main.8ab27254.js.map": "/sfdsh.github.io/static/js/main.8ab27254.js.map",
+    "787.7c67f256.chunk.js.map": "/sfdsh.github.io/static/js/787.7c67f256.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4173a830.css",
-    "static/js/main.5d204220.js"
+    "static/js/main.8ab27254.js"
   ]
 }
